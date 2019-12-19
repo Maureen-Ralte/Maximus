@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1920px"
+	 height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+<g id="Layer_2">
+	<ellipse fill="#FFFFFF" cx="969.396" cy="413.374" rx="1013.23" ry="1013.625"/>
+</g>
+<g id="Layer_4">
+	<title>testimonial-1</title>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M426.423,534.883c0,315.323,256.47,657.593,572.841,657.593c316.372,0,572.845-342.271,572.845-657.593
+				c0-315.333-124.3-656.097-577.515-671.981c-7.792-0.275-15.513-0.409-23.127-0.409
+				C576.734-137.519,426.423,225.518,426.423,534.883"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<radialGradient id="SVGID_3_" cx="1.2568" cy="2032.7073" r="1.5303" gradientTransform="matrix(412.8614 0 0 -400.4283 480.3193 814480.875)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#F9DBAF"/>
+			<stop  offset="0.4388" style="stop-color:#F9DBAF"/>
+			<stop  offset="1" style="stop-color:#F7D7AD"/>
+		</radialGradient>
+		<rect x="426.423" y="-137.519" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="1145.686" height="1329.995"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_4_" x="-1363.703" y="-675.499" width="4764.356" height="7220.927"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_5_)" fill="#F9DBAF" d="M430.511,487.641c0,0-75.163-55.135-82.606,53.165
+			c0,0-7.445,93.864,12.407,115.53c19.852,21.658,77.771,33.063,77.771,33.063"/>
+		<path clip-path="url(#SVGID_5_)" fill="#F9DBAF" d="M1561.189,487.641c0,0,75.161-55.135,82.609,53.165
+			c0,0,7.443,93.864-12.41,115.53c-19.854,21.658-77.768,33.063-77.768,33.063"/>
+		<path clip-path="url(#SVGID_5_)" fill="#D1B897" d="M1566.4,537.484c0,0,32.731-43.322,47.618-24.071L1566.4,537.484z"/>
+		<path clip-path="url(#SVGID_5_)" fill="#D1B590" d="M1614.019,559.142c0,0,14.89,38.509,0,64.981h-23.81
+			c0,0,21.85,2.404,9.182-32.49c-12.668-34.898-32.996-32.491-32.996-32.491"/>
+		<path clip-path="url(#SVGID_5_)" fill="#D1B590" d="M371.809,559.142c0,0-14.891,38.509,0,64.981h23.811
+			c0,0-21.852,2.404-9.184-32.49c12.668-34.898,32.994-32.491,32.994-32.491"/>
+		<path clip-path="url(#SVGID_5_)" fill="#D1B897" d="M422.312,532.607c0,0-32.733-43.321-47.621-24.065L422.312,532.607z"/>
+	</g>
+</g>
+<g id="Layer_3">
+	<path fill="#232323" d="M404.621,475.43c0,0-12.121-320.93,181.879-496.93c0,0,392-380,832,0c0,0,214.266,239.195,175.133,495.598
+		s4.774,12.402,4.774,12.402s-39.802,34.358-35.907,53.5s-8-83.5-8-83.5s-434.121-198-553.061-404c0,0-216.939,282-542.939,412
+		l-8,62.984L404.621,475.43z"/>
+</g>
+<g id="Layer_5">
+	
+		<ellipse transform="matrix(0.9253 -0.3792 0.3792 0.9253 158.3333 280.8177)" fill="#232323" cx="791.987" cy="-261.5" rx="318.114" ry="218.805"/>
+</g>
+</svg>
